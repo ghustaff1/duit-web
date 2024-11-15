@@ -1,0 +1,109 @@
+// .cart {
+//   position: absolute;
+//   top: 0;
+//   width: 25%;
+//   right: -100%;
+//   z-index:10;
+//   background-color: #fffbf7;
+//   min-height: 100%;
+//   max-height: 100%;
+//   padding: 24px 16px;
+//   display: flex;
+//   flex-direction: column;
+//   transition: all 0.5s ease;
+//   border-top-left-radius: 16px;
+//   border-bottom-left-radius: 16px;
+//   &.open {
+//     right: 0;
+//   }
+//   svg {
+//     cursor: pointer;
+//   }
+//   &__top {
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+//     margin-bottom: 24px;
+//   }
+//   &__title {
+//     font-family: "Poppins", sans-serif;
+//     font-weight: 600;
+//     font-size: 28px;
+//     line-height: 1.4;
+//     color: #151515;
+//   }
+//   &__items {
+//     flex: 1 1 auto;
+//     overflow-y: scroll;
+//   }
+//   &__total {
+//     margin-bottom: 24px;
+//     &-title {
+//       font-family: "Poppins", sans-serif;
+//       line-height: 1.4;
+//     }
+//     &-totalPrice {
+//       font-family: "Poppins", sans-serif;
+//       font-size: 28px;
+//       line-height: 1.4;
+//       font-weight: 600;
+//       color: #151515;
+//     }
+//   }
+//   &__order {
+//     padding-top: 28px;
+//     display: flex;
+//     align-items: center;
+//     justify-content: space-between;
+//     border-top: 2px solid #ebebeb;
+//   }
+//   &__continue {
+//     font-family: "Poppins", sans-serif;
+//     font-weight: 700;
+//     color: #151515;
+//     font-size: 19px;
+//     line-height: 1.4;
+//     cursor: pointer;
+//   }
+// }
+
+.cart {
+  padding: 64px 0;
+  &__top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 32px;
+    margin-bottom: 32px;
+  }
+  &__clear {
+    display: flex;
+    gap: 12px;
+  }
+  &__details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 32px 0;
+    span {
+      display: flex;
+      gap: 8px;
+      font-size: 20px;
+      p{
+        font-family: "Poppins", sans-serif;
+      }
+    }
+  }
+  &__amount{
+    font-weight: 700;
+  }
+  &__totalPrice{
+    font-weight: 700;
+  }
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}

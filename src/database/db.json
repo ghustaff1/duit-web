@@ -1,0 +1,838 @@
+{
+  "bestFarmers": {
+    "links": [
+      "John Cardy's farm",
+      "Maui Tropical Plantation",
+      "Grant's Farm",
+      "Kauai Coffee Farm"
+    ],
+    "products": [
+      {
+        "id": "05",
+        "title": "Mango",
+        "rating": "4",
+        "category": "frnveg",
+        "descr": "Space for a small description",
+        "price": "4.54",
+        "datedPrice": "6.72",
+        "imgUrl": [
+          "/img/items/05/mango01.jpg"
+        ],
+        "amount": "245",
+        "measure": "kg",
+        "farm": "Grocery Tarm Fields",
+        "freshness": "1",
+        "ship":"0",
+        "sells": "546",
+        "recipe": "Recipe for mango"
+      },
+      {
+        "id": "06",
+        "title": "Passion fruit",
+        "rating": "4",
+        "category": "Fruits and vegetables",
+        "descr": "Space for a small description",
+        "price": "7.56",
+        "datedPrice": "9.92",
+        "imgUrl": [
+          "/img/items/06/pasfruit01.jpg"
+        ],
+        "amount": "245",
+        "measure": "kg",
+        "farm": "Grant's Farm",
+        "freshness": "1",
+        "ship":"0",
+        "sells": "546",
+        "recipe": "Recipe for pasfruit"
+      },
+      {
+        "id": "07",
+        "title": "Kauai Coffee",
+        "rating": "4",
+        "category": "Drinks",
+        "descr": "Space for a small description",
+        "price": "30.99",
+        "datedPrice": "42.66",
+        "imgUrl": [
+          "/img/items/07/coffee01.jpg"
+        ],
+        "amount": "245",
+        "measure": "kg",
+        "farm": "Kauai Coffee Farm",
+        "freshness": "1",
+        "ship":"0",
+        "sells": "546",
+        "recipe": "Descr for coffe"
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "id": "Agata Smith",
+      "name": "Agata Smith",
+      "text": "This is an super space for your customers qoute. Don’t worry it works smooth as pie. You will get all what you need by writiing a text here",
+      "imgUrl": "img/reviews/face1.jpg",
+      "alt": "photo"
+    },
+    {
+      "id": "Lenny Coffey",
+      "name": "Lenny Coffey",
+      "text": "This is an super space for your customers qoute. Don’t worry it works smooth as pie. You will get all what you need by writiing a text here",
+      "imgUrl": "img/reviews/face2.jpg",
+      "alt": "photo"
+    },
+    {
+      "id": "Miriam Norman",
+      "name": "Miriam Norman",
+      "text": "This is an super space for your customers qoute. Don’t worry it works smooth as pie. You will get all what you need by writiing a text here",
+      "imgUrl": "img/reviews/face3.jpg",
+      "alt": "photo"
+    },
+    {
+      "id": "Estelle Chavez",
+      "name": "Estelle Chavez",
+      "text": "This is an super space for your customers qoute. Don’t worry it works smooth as pie. You will get all what you need by writiing a text here",
+      "imgUrl": "img/reviews/face4.jpg",
+      "alt": "photo"
+    },
+    {
+      "id": "Kimberly Vargas",
+      "name": "Kimberly Vargas",
+      "text": "This is an super space for your customers qoute. Don’t worry it works smooth as pie. You will get all what you need by writiing a text here",
+      "imgUrl": "img/reviews/face5.jpg",
+      "alt": "photo"
+    },
+    {
+      "id": "Janice Yates",
+      "name": "Janice Yates",
+      "text": "This is an super space for your customers qoute. Don’t worry it works smooth as pie. You will get all what you need by writiing a text here",
+      "imgUrl": "img/reviews/face6.jpg",
+      "alt": "photo"
+    },
+    {
+      "id": "Lowri Elliott",
+      "name": "Lowri Elliott",
+      "text": "This is an super space for your customers qoute. Don’t worry it works smooth as pie. You will get all what you need by writiing a text here",
+      "imgUrl": "img/reviews/face7.jpg",
+      "alt": "photo"
+    }
+  ],
+  "products": [
+    {
+      "id": "01",
+      "title": "Carrots",
+      "rating": "2",
+      "category": "frnveg",
+      "descr": "Space for a small description",
+      "price": "12.43",
+      "datedPrice": "15.34",
+      "imgUrl": [
+        "/img/items/01/carrot01.jpg",
+        "/img/items/01/carrot02.jpg"
+      ],
+      "amount": "154",
+      "measure": "kg",
+      "farm": "Golden Valley",
+      "freshness": "1",
+      "ship":"0",
+      "sells": "109",
+      "recipe": "From roasts, salads and soups to casseroles and cakes, Carrots will lend sweetness, texture and colour to an enormous number of recipes."
+    },
+    {
+      "id": "02",
+      "title": "Apples",
+      "rating": "4",
+      "category": "frnveg",
+      "descr": "An apple is a round fruit with red or green skin and a whitish inside. One variety of apple might be sweet, another sour. The apple isn't just a fruit.",
+      "price": "5.43",
+      "imgUrl": [
+        "/img/items/02/apples01.jpg"
+      ],
+      "amount": "100",
+      "measure": "kg",
+      "farm": "Dragon Hill Ranch",
+      "freshness": "1",
+      "ship":"0",
+      "sells": "119",
+      "recipe": "Using a sharp knife, slice the apple into thin, even segments, revealing its juicy interior. Finally, spread a generous layer of walnut paste onto each slice, adding a delightful nutty flavor to the refreshing sweetness of the apple.",
+      "reviews": [
+        {
+          "name": "Agata Smith",
+          "imgUrl": "img/reviews/face1.jpg",
+          "rating": "5",
+          "text": "This apple was incredibly crisp and refreshing, perfect for a healthy snack."
+        },
+        {
+          "name": "Estelle Chavez",
+          "imgUrl": "img/reviews/face2.jpg",
+          "rating": "4",
+          "text": "The flavor of this apple was exceptional, striking a perfect balance between sweetness and tartness."
+        },
+        {
+          "name": "Janice Yates",
+          "imgUrl": "img/reviews/face3.jpg",
+          "rating": "5",
+          "text": "I loved the vibrant red color of this apple, and it tasted as good as it looked."
+        },
+        {
+          "name": "Kimberly Vargas",
+          "imgUrl": "img/reviews/face4.jpg",
+          "rating": "2",
+          "text": "This apple had a not good aroma that made me disgust the first bite."
+        },
+        {
+          "name": "Lenny Coffey",
+          "imgUrl": "img/reviews/face5.jpg",
+          "rating": "5",
+          "text": "The texture of this apple was pleasantly crunchy, making each bite enjoyable."
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "Peaches",
+      "rating": "4",
+      "category": "frnveg",
+      "descr": "Space for a small description",
+      "price": "5.34",
+      "imgUrl": [
+        "/img/items/03/peaches01.jpg"
+      ],
+      "amount": "100",
+      "measure": "kg",
+      "farm": "Blueberry Hill Ridge",
+      "freshness": "1",
+      "ship":"0",
+      "sells": "123",
+      "recipe": "Wash peaches before eating or cooking under clean water, lightly rubbing the surface with your hand or a fruit and vegetable brush. This will remove dirt, bacteria and possible pesticide residues."
+    },
+    {
+      "id": "04",
+      "title": "Bananas",
+      "rating": "4",
+      "category": "frnveg",
+      "descr": "Space for a small description",
+      "price": "5.34",
+      "datedPrice": "8.95",
+      "imgUrl": [
+        "/img/items/04/bananas01.jpg"
+      ],
+      "amount": "100",
+      "measure": "kg",
+      "farm": "Golden Valley",
+      "freshness": "1",
+      "ship":"0",
+      "sells": "37",
+      "recipe": "Recipe for bananas"
+    },
+    {
+      "id": "05",
+      "title": "Mango",
+      "rating": "3",
+      "category": "frnveg",
+      "descr": "Space for a small description",
+      "price": "4.54",
+      "datedPrice": "6.72",
+      "imgUrl": [
+        "/img/items/05/mango01.jpg"
+      ],
+      "amount": "245",
+      "measure": "kg",
+      "farm": "Grocery Tarm Fields",
+      "freshness": "1",
+      "ship":"0",
+      "sells": "76",
+      "recipe": "Recipe for mango"
+    },
+    {
+      "id": "06",
+      "title": "Passion fruit",
+      "rating": "4",
+      "category": "frnveg",
+      "descr": "Space for a small description",
+      "price": "7.56",
+      "datedPrice": "9.92",
+      "imgUrl": [
+        "/img/items/06/pasfruit01.jpg"
+      ],
+      "amount": "245",
+      "measure": "kg",
+      "farm": "Dragon Hill Ranch",
+      "freshness": "1",
+      "ship":"0",
+      "sells": "54",
+      "recipe": "Recipe for pasfruit"
+    },
+    {
+      "id": "07",
+      "title": "Kauai Coffee",
+      "rating": "4",
+      "category": "drinks",
+      "descr": "Space for a small description",
+      "price": "30.99",
+      "datedPrice": "42.66",
+      "imgUrl": [
+        "/img/items/07/coffee01.jpg"
+      ],
+      "amount": "245",
+      "measure": "kg",
+      "farm": "Kauai Coffee Farm",
+      "freshness": "1",
+      "ship":"0",
+      "sells": "67",
+      "recipe": "Recipe for coffe"
+    },
+    {
+      "id": "08",
+      "title": "Watermelon",
+      "rating": "5",
+      "category": "frnveg",
+      "descr": "Space for a small description",
+      "price": "8.97",
+      "datedPrice": "9.23",
+      "imgUrl": [
+        "/img/items/08/watermelon01.jpg"
+      ],
+      "amount": "56",
+      "measure": "pcs",
+      "farm": "Blueberry Hill Ridge",
+      "freshness": "2",
+      "ship":"0",
+      "sells": "4",
+      "recipe": "Recipe for watermelon"
+    },
+    {
+      "id": "09",
+      "title": "Strawberry",
+      "rating": "5",
+      "category": "frnveg",
+      "descr": "Space for a small description",
+      "price": "11.43",
+      "datedPrice": "12.95",
+      "imgUrl": [
+        "/img/items/09/strawberry01.jpg"
+      ],
+      "amount": "23",
+      "measure": "kg",
+      "farm": "Blueberry Hill Ridge",
+      "freshness": "3",
+      "ship":"0",
+      "sells": "20",
+      "recipe": "Recipe for strawberry"
+    },
+    {
+      "id": "10",
+      "title": "Pineapple",
+      "rating": "5",
+      "category": "frnveg",
+      "descr": "Space for a small description",
+      "price": "8.95",
+      "datedPrice": "",
+      "imgUrl": [
+        "/img/items/10/pineapple01.jpg"
+      ],
+      "amount": "56",
+      "measure": "pcs",
+      "farm": "Blueberry Hill Ridge",
+      "freshness": "2",
+      "ship":"0",
+      "sells": "4",
+      "recipe": "Recipe for pineapple"
+    }
+  ],
+  "categories": [
+    {
+      "category": "bakery",
+      "categoryFarms": [
+        "Sunshine Fields",
+        "Sweet Clover Acres",
+        "Crunchy Farm"
+      ]
+    },
+    {
+      "category": "frnveg",
+      "categoryFarms": [
+        "Golden Valley",
+        "Dragon Hill Ranch",
+        "Blueberry Hill Ridge"
+      ]
+    },
+    {
+      "category": "meatnfish",
+      "categoryFarms": [
+        "Gusty Goat Farm",
+        "Moo Moo Farm",
+        "Windy Bottom Homestead"
+      ]
+    },
+    {
+      "category": "drinks",
+      "categoryFarms": [
+        "Kauai Coffee Farm",
+        "Honeybuzz Meadow",
+        "Sweet Milk Acres"
+      ]
+    }
+  ],
+  "farms": [
+    {
+      "farm": "Grocery Tarm Fields",
+      "descr": "We work hard to ensure that the fruit and vegetables we sell are fresh and high in quality. If we don't grow them ourselves, we source them from carefully chosen suppliers, preferring to buy locally whenever possible."
+    },
+    {
+      "farm": "Golden Valley",
+      "descr": "We work hard to ensure that the fruit and vegetables we sell are fresh and high in quality. If we don't grow them ourselves, we source them from carefully chosen suppliers, preferring to buy locally whenever possible."
+    },
+    {
+      "farm": "Dragon Hill Ranch",
+      "descr": "We work hard to ensure that the fruit and vegetables we sell are fresh and high in quality. If we don't grow them ourselves, we source them from carefully chosen suppliers, preferring to buy locally whenever possible."
+    },
+    {
+      "farm": "Blueberry Hill Ridge",
+      "descr": "We work hard to ensure that the fruit and vegetables we sell are fresh and high in quality. If we don't grow them ourselves, we source them from carefully chosen suppliers, preferring to buy locally whenever possible."
+    },
+    {
+      "farm": "Kauai Coffee Farm",
+      "descr": "We work hard to ensure that the fruit and vegetables we sell are fresh and high in quality. If we don't grow them ourselves, we source them from carefully chosen suppliers, preferring to buy locally whenever possible."
+    },
+    {
+      "farm": "Honeybuzz Meadow",
+      "descr": "We work hard to ensure that the fruit and vegetables we sell are fresh and high in quality. If we don't grow them ourselves, we source them from carefully chosen suppliers, preferring to buy locally whenever possible."
+    },
+    {
+      "farm": "Sweet Milk Acres",
+      "descr": "We work hard to ensure that the fruit and vegetables we sell are fresh and high in quality. If we don't grow them ourselves, we source them from carefully chosen suppliers, preferring to buy locally whenever possible."
+    }
+  ],
+  "blog":[
+    {
+      "id":"01",
+      "title":"Authentic belgian brussels waffles recipe",
+      "bgImg":"/img/blog/01/bgImg.jpeg",
+      "authorImg":"/img/blog/01/authorImg.jpg",
+      "authorName":"Conor Hopkins",
+      "date":[17,6,2023],
+      "topics":[
+        {
+          "topicTitle":"The history of brussels waffles",
+          "topicText":"The brussels waffles is the oldest type of waffle and dates its first occurrence back to 1842/43. The swiss baker, florian dacher, who came from brussels introduced these special waffles for the first time in the city of ghent, belgium. The first written recipe would later be published in 1864 by philippe cauderlier in the his book “la pâtisserie et la confiture”"
+        },
+        {
+          "topicTitle":"Ingredients:",
+          "topicText":"2 cups (500g) French T55 flour, 4 tbsp. (50g) sugar, 1 ½ tbsp. (20g) baking powder, ¾ tsp (4g) salt, ¾ stick (80g) melted butter, 1 ½ cups (360 ml) milk, 4 whole eggs, 5 egg white"
+        },
+        {
+          "topicTitle":"Instructions:",
+          "topicText":"Combine the flour, sugar, baking powder, and salt in bowl. Using your whisk, mix all the previous ingredients. Add whole eggs to mix. Gradually whisk milk into the mix. Add melted butter to the mix. In a separate bowl, using your whisk or mixer beat egg whites to  peaks until it forms into whip cream. Gradually work in the whip cream into the mix using a spatula. Pre-heat waffle iron to 410-430°F (210-220°C) and cook for 3-4 min. Remember to swivel your iron around for even distribution of batter."
+        }
+      ],
+      "tags":["Recipes", "Food", "Vaffles"],
+      "view":"big"
+    },
+    {
+      "id":"02",
+      "title":"Health Benefits of Oranges",
+      "bgImg":"/img/blog/02/bgImg.jpg",
+      "authorImg":"/img/blog/02/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,5,2023],
+      "topics":[
+        {
+          "topicTitle":"Health Benefits",
+          "topicText":"Oranges are a nutritional powerhouse, packed with vitamins and minerals. The most noteworthy of these is vitamin C, a water-soluble antioxidant that prevents cell damage. How does it work? Every cell in the body contains DNA, which is vulnerable to damage, or mutations, when exposed to free radicals. When DNA mutates, it can lead to the growth of cancerous cells. Vitamin C neutralizes free radicals and can prevent this mutation. "
+        },
+        {
+          "topicTitle":"Fiber",
+          "topicText":"The fiber in oranges can keep blood sugar levels in check and reduce high cholesterol to prevent cardiovascular disease."
+        },
+        {
+          "topicTitle":"Calcium",
+          "topicText":"Oranges contain approximately 55 milligrams of calcium, or 6% of your daily requirement. This nutrient is important for building strong bones and maintaining bone health. It's typically associated with dairy products like milk — but whole vegetables and fruits, like oranges, are also a good source."
+        },
+        {
+          "topicTitle":"Portion Sizes",
+          "topicText":"Oranges are high in potassium, so if you're on beta-blockers, eating too many can lead to kidney damage. If you have a condition called hemochromatosis and your body stores excess iron, too much vitamin C can increase iron levels and lead to tissue damage. If you prefer to drink your fruits, stick to one or two glasses of OJ a day. Juices are higher in sugar and lower in fiber. Excess sugar can lead to weight gain. "
+        }
+      ],
+      "tags":["Health", "Food", "Oranges"],
+      "view":"big"
+    },
+    {
+      "id":"03",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"Healthy Salads Help You Get Enough Fruits and Vegetables",
+          "topicText":"Some people struggle when it comes to eating enough fruits and vegetables to maintain a healthy diet. Having a fresh salad every day can make it easy to get all of the servings you need, plus it supports a clean eating lifestyle. To get the most benefit, try to keep the majority of the ingredients in their raw form. These pack the biggest punch when it comes to creating a truly healthy salad, plus they're full of flavour and satisfying crunch."
+        },
+        {
+          "topicTitle":"Vegetable and Fruit Salads are Full of Fibre",
+          "topicText":"Fibre is a wonderful thing; it helps you feel full longer and can provide a range of health benefits. For example, a fibre-rich diet can help alleviate and prevent constipation and lower cholesterol. It can also make it easier to maintain a healthy body weight which reduces your risk of developing heart disease and diabetes. Your blood sugar levels may also stay more even, helping to prevent cravings for sugary foods."
+        },
+        {
+          "topicTitle":"A Salad Provides Water",
+          "topicText":"Some people are surprised to hear that fruits and vegetables are actually great sources of water. In fact, watermelon and strawberries are around 92 percent water while cucumber and certain lettuces are a startling 96 percent water. Eating a combination of vegetables and fruits will high water contents can help you stay hydrated even if you don't have the opportunity to grab a glass of water to drink. Plus, the water consumption from foods does count towards your daily needs."
+        },
+        {
+          "topicTitle":"Salads Can Cool You Down",
+          "topicText":"Whether it is a traditional lettuce-based version or a fruit salad, the cool ingredients can help you feel refreshed during the summer heat. Often, as temperatures rise, hot meals become less appealing. But consuming healthy ingredients is critical all year round if you want to maintain optimal health."
+        }
+      ],
+      "tags":["Health", "Food", "Salads"],
+      "view":"small"
+    },
+    {
+      "id":"04",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"Background",
+          "topicText":"The association between a plant-based diet (vegetarianism) and extended life span is increasingly criticised since it may be based on the lack of representative data and insufficient removal of confounders such as lifestyles."
+        },
+        {
+          "topicTitle":"Aim",
+          "topicText":"We examined the association between meat intake and life expectancy at a population level based on ecological data published by the United Nations agencies."
+        },
+        {
+          "topicTitle":"Methods",
+          "topicText":"Population-specific data were obtained from 175 countries/territories. Scatter plots, bivariate, partial correlation and linear regression models were used with SPSS 25 to explore and compare the correlations between newborn life expectancy (e(0)), life expectancy at 5 years of life (e(5)) and intakes of meat, and carbohydrate crops, respectively. The established risk factors to life expectancy – caloric intake, urbanization, obesity and education levels – were included as the potential confounders.."
+        },
+        {
+          "topicTitle":"Results",
+          "topicText":"Worldwide, bivariate correlation analyses revealed that meat intake is positively correlated with life expectancies. This relationship remained significant when influences of caloric intake, urbanization, obesity, education and carbohydrate crops were statistically controlled. Stepwise linear regression selected meat intake, not carbohydrate crops, as one of the significant predictors of life expectancy. In contrast, carbohydrate crops showed weak and negative correlation with life expectancy."
+        },
+        {
+          "topicTitle":"Conclusion",
+          "topicText":"If meat intake is not incorporated into nutrition science for predicting human life expectancy, results could prove inaccurate."
+        }
+      ],
+      "tags":["Health", "Meat", "Vegetarian"],
+      "view":"small"
+    },
+    {
+      "id":"05",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"Caffeine",
+          "topicText":"Although caffeine is generally safe in low-to-moderate amounts, high levels of consumption can cause unpleasant and even dangerous side effects."
+        },
+        {
+          "topicTitle":"Anxiety",
+          "topicText":"Caffeine is known to increase alertness.It works by blocking the effects of adenosine, a brain chemical that makes you feel tired. At the same time, it triggers the release of adrenaline, the “fight-or-flight” hormone associated with increased energy (8Trusted Source). However, at higher doses, these effects may become more pronounced, leading to anxiety and nervousness."
+        },
+        {
+          "topicTitle":"Insomnia",
+          "topicText":"Caffeine’s ability to help people stay awake is one of its most prized qualities.On the other hand, too much caffeine can make it difficult to get enough restorative sleep.Studies have found that higher caffeine intake appears to increase the amount of time it takes to fall asleep. It may also decrease total sleeping time, especially in the elderly."
+        }
+      ],
+      "tags":["Health", "Food", "Salads"],
+      "view":"small"
+    },
+    {
+      "id":"06",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"How much do we know about dietary supplements?",
+          "topicText":"The amount of scientific evidence we have on dietary supplements varies widely—we have a lot of information on some and very little on others."
+        },
+        {
+          "topicTitle":"Supplements vs. Whole Foods",
+          "topicText":"Supplements aren’t intended to replace food. They can’t replicate all of the nutrients and benefits of whole foods, such as fruits and vegetables. Whole foods offer three main benefits over dietary supplements:greater nutrition, essential fiber and protective substances"
+        },
+        {
+          "topicTitle":"Supplements are Available in Various Forms",
+          "topicText":"Whether in pill, powder, or liquid form, the goal of dietary supplements is often the same: to supplement your diet to get enough nutrients and enhance health.Supplements contain at least one dietary ingredient, such as vitamins, minerals, herbs, botanicals, amino acids, or enzymes. Some of the most popular supplements come in a multivitamin, which can help you avoid taking a dozen pills each day, but they can also be purchased individually."
+        },
+        {
+          "topicTitle":"Supplements Aren’t Always Safe",
+          "topicText":"In most cases, multivitamins aren’t likely to pose any health risks. Still, it’s important to be cautious when you put anything in your body. It’s important to know the risks of too much of a good thing and harmful interactions. If you have questions, it is best to check with your primary care physician or a nutritionist."
+        },
+        {
+          "topicTitle":"Stay Healthy, Stay Safe",
+          "topicText":"Nothing beats the nutrient power of a healthy diet of real food. No matter what your goal is when taking supplements, one thing is certain: They aren’t a replacement for a nutrient-dense, healthy diet. Supplements should never be used in place of food. Don’t underestimate what a nutrient-packed salad can do for you compared to a pill made in a factory. Be wary of weight-loss related claims and supplements. If it sounds too good to be true, it most likely has a catch."
+        }
+      ],
+      "tags":["Health", "Food", "Salads"],
+      "view":"small"
+    },
+    {
+      "id":"07",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"Healthy Salads Help You Get Enough Fruits and Vegetables",
+          "topicText":"Some people struggle when it comes to eating enough fruits and vegetables to maintain a healthy diet. Having a fresh salad every day can make it easy to get all of the servings you need, plus it supports a clean eating lifestyle. To get the most benefit, try to keep the majority of the ingredients in their raw form. These pack the biggest punch when it comes to creating a truly healthy salad, plus they're full of flavour and satisfying crunch."
+        },
+        {
+          "topicTitle":"Vegetable and Fruit Salads are Full of Fibre",
+          "topicText":"Fibre is a wonderful thing; it helps you feel full longer and can provide a range of health benefits. For example, a fibre-rich diet can help alleviate and prevent constipation and lower cholesterol. It can also make it easier to maintain a healthy body weight which reduces your risk of developing heart disease and diabetes. Your blood sugar levels may also stay more even, helping to prevent cravings for sugary foods."
+        },
+        {
+          "topicTitle":"A Salad Provides Water",
+          "topicText":"Some people are surprised to hear that fruits and vegetables are actually great sources of water. In fact, watermelon and strawberries are around 92 percent water while cucumber and certain lettuces are a startling 96 percent water. Eating a combination of vegetables and fruits will high water contents can help you stay hydrated even if you don't have the opportunity to grab a glass of water to drink. Plus, the water consumption from foods does count towards your daily needs."
+        },
+        {
+          "topicTitle":"Salads Can Cool You Down",
+          "topicText":"Whether it is a traditional lettuce-based version or a fruit salad, the cool ingredients can help you feel refreshed during the summer heat. Often, as temperatures rise, hot meals become less appealing. But consuming healthy ingredients is critical all year round if you want to maintain optimal health."
+        }
+      ],
+      "tags":["Health", "Food", "Salads"],
+      "view":"small"
+    },
+    {
+      "id":"08",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"Healthy Salads Help You Get Enough Fruits and Vegetables",
+          "topicText":"Some people struggle when it comes to eating enough fruits and vegetables to maintain a healthy diet. Having a fresh salad every day can make it easy to get all of the servings you need, plus it supports a clean eating lifestyle. To get the most benefit, try to keep the majority of the ingredients in their raw form. These pack the biggest punch when it comes to creating a truly healthy salad, plus they're full of flavour and satisfying crunch."
+        },
+        {
+          "topicTitle":"Vegetable and Fruit Salads are Full of Fibre",
+          "topicText":"Fibre is a wonderful thing; it helps you feel full longer and can provide a range of health benefits. For example, a fibre-rich diet can help alleviate and prevent constipation and lower cholesterol. It can also make it easier to maintain a healthy body weight which reduces your risk of developing heart disease and diabetes. Your blood sugar levels may also stay more even, helping to prevent cravings for sugary foods."
+        },
+        {
+          "topicTitle":"A Salad Provides Water",
+          "topicText":"Some people are surprised to hear that fruits and vegetables are actually great sources of water. In fact, watermelon and strawberries are around 92 percent water while cucumber and certain lettuces are a startling 96 percent water. Eating a combination of vegetables and fruits will high water contents can help you stay hydrated even if you don't have the opportunity to grab a glass of water to drink. Plus, the water consumption from foods does count towards your daily needs."
+        },
+        {
+          "topicTitle":"Salads Can Cool You Down",
+          "topicText":"Whether it is a traditional lettuce-based version or a fruit salad, the cool ingredients can help you feel refreshed during the summer heat. Often, as temperatures rise, hot meals become less appealing. But consuming healthy ingredients is critical all year round if you want to maintain optimal health."
+        }
+      ],
+      "tags":["Health", "Food", "Salads"],
+      "view":"small"
+    },
+    {
+      "id":"09",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"Healthy Salads Help You Get Enough Fruits and Vegetables",
+          "topicText":"Some people struggle when it comes to eating enough fruits and vegetables to maintain a healthy diet. Having a fresh salad every day can make it easy to get all of the servings you need, plus it supports a clean eating lifestyle. To get the most benefit, try to keep the majority of the ingredients in their raw form. These pack the biggest punch when it comes to creating a truly healthy salad, plus they're full of flavour and satisfying crunch."
+        },
+        {
+          "topicTitle":"Vegetable and Fruit Salads are Full of Fibre",
+          "topicText":"Fibre is a wonderful thing; it helps you feel full longer and can provide a range of health benefits. For example, a fibre-rich diet can help alleviate and prevent constipation and lower cholesterol. It can also make it easier to maintain a healthy body weight which reduces your risk of developing heart disease and diabetes. Your blood sugar levels may also stay more even, helping to prevent cravings for sugary foods."
+        },
+        {
+          "topicTitle":"A Salad Provides Water",
+          "topicText":"Some people are surprised to hear that fruits and vegetables are actually great sources of water. In fact, watermelon and strawberries are around 92 percent water while cucumber and certain lettuces are a startling 96 percent water. Eating a combination of vegetables and fruits will high water contents can help you stay hydrated even if you don't have the opportunity to grab a glass of water to drink. Plus, the water consumption from foods does count towards your daily needs."
+        },
+        {
+          "topicTitle":"Salads Can Cool You Down",
+          "topicText":"Whether it is a traditional lettuce-based version or a fruit salad, the cool ingredients can help you feel refreshed during the summer heat. Often, as temperatures rise, hot meals become less appealing. But consuming healthy ingredients is critical all year round if you want to maintain optimal health."
+        }
+      ],
+      "tags":["Health", "Food", "Salads"],
+      "view":"small"
+    },
+    {
+      "id":"10",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"Healthy Salads Help You Get Enough Fruits and Vegetables",
+          "topicText":"Some people struggle when it comes to eating enough fruits and vegetables to maintain a healthy diet. Having a fresh salad every day can make it easy to get all of the servings you need, plus it supports a clean eating lifestyle. To get the most benefit, try to keep the majority of the ingredients in their raw form. These pack the biggest punch when it comes to creating a truly healthy salad, plus they're full of flavour and satisfying crunch."
+        },
+        {
+          "topicTitle":"Vegetable and Fruit Salads are Full of Fibre",
+          "topicText":"Fibre is a wonderful thing; it helps you feel full longer and can provide a range of health benefits. For example, a fibre-rich diet can help alleviate and prevent constipation and lower cholesterol. It can also make it easier to maintain a healthy body weight which reduces your risk of developing heart disease and diabetes. Your blood sugar levels may also stay more even, helping to prevent cravings for sugary foods."
+        },
+        {
+          "topicTitle":"A Salad Provides Water",
+          "topicText":"Some people are surprised to hear that fruits and vegetables are actually great sources of water. In fact, watermelon and strawberries are around 92 percent water while cucumber and certain lettuces are a startling 96 percent water. Eating a combination of vegetables and fruits will high water contents can help you stay hydrated even if you don't have the opportunity to grab a glass of water to drink. Plus, the water consumption from foods does count towards your daily needs."
+        },
+        {
+          "topicTitle":"Salads Can Cool You Down",
+          "topicText":"Whether it is a traditional lettuce-based version or a fruit salad, the cool ingredients can help you feel refreshed during the summer heat. Often, as temperatures rise, hot meals become less appealing. But consuming healthy ingredients is critical all year round if you want to maintain optimal health."
+        }
+      ],
+      "tags":["Health", "Food", "Salads"],
+      "view":"small"
+    },
+    {
+      "id":"11",
+      "title":"What are the Benefits of Eating Salads?",
+      "bgImg":"/img/blog/03/bgImg.jpg",
+      "authorImg":"/img/blog/03/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,6,2023],
+      "topics":[
+        {
+          "topicTitle":"Healthy Salads Help You Get Enough Fruits and Vegetables",
+          "topicText":"Some people struggle when it comes to eating enough fruits and vegetables to maintain a healthy diet. Having a fresh salad every day can make it easy to get all of the servings you need, plus it supports a clean eating lifestyle. To get the most benefit, try to keep the majority of the ingredients in their raw form. These pack the biggest punch when it comes to creating a truly healthy salad, plus they're full of flavour and satisfying crunch."
+        },
+        {
+          "topicTitle":"Vegetable and Fruit Salads are Full of Fibre",
+          "topicText":"Fibre is a wonderful thing; it helps you feel full longer and can provide a range of health benefits. For example, a fibre-rich diet can help alleviate and prevent constipation and lower cholesterol. It can also make it easier to maintain a healthy body weight which reduces your risk of developing heart disease and diabetes. Your blood sugar levels may also stay more even, helping to prevent cravings for sugary foods."
+        },
+        {
+          "topicTitle":"A Salad Provides Water",
+          "topicText":"Some people are surprised to hear that fruits and vegetables are actually great sources of water. In fact, watermelon and strawberries are around 92 percent water while cucumber and certain lettuces are a startling 96 percent water. Eating a combination of vegetables and fruits will high water contents can help you stay hydrated even if you don't have the opportunity to grab a glass of water to drink. Plus, the water consumption from foods does count towards your daily needs."
+        },
+        {
+          "topicTitle":"Salads Can Cool You Down",
+          "topicText":"Whether it is a traditional lettuce-based version or a fruit salad, the cool ingredients can help you feel refreshed during the summer heat. Often, as temperatures rise, hot meals become less appealing. But consuming healthy ingredients is critical all year round if you want to maintain optimal health."
+        }
+      ],
+      "tags":["Health", "Food", "Salads"],
+      "view":"small"
+    },
+    {
+      "id":"12",
+      "title":"Authentic belgian brussels waffles recipe",
+      "bgImg":"/img/blog/01/bgImg.jpeg",
+      "authorImg":"/img/blog/01/authorImg.jpg",
+      "authorName":"Conor Hopkins",
+      "date":[17,6,2023],
+      "topics":[
+        {
+          "topicTitle":"The history of brussels waffles",
+          "topicText":"The brussels waffles is the oldest type of waffle and dates its first occurrence back to 1842/43. The swiss baker, florian dacher, who came from brussels introduced these special waffles for the first time in the city of ghent, belgium. The first written recipe would later be published in 1864 by philippe cauderlier in the his book “la pâtisserie et la confiture”"
+        },
+        {
+          "topicTitle":"Ingredients:",
+          "topicText":"2 cups (500g) French T55 flour, 4 tbsp. (50g) sugar, 1 ½ tbsp. (20g) baking powder, ¾ tsp (4g) salt, ¾ stick (80g) melted butter, 1 ½ cups (360 ml) milk, 4 whole eggs, 5 egg white"
+        },
+        {
+          "topicTitle":"Instructions:",
+          "topicText":"Combine the flour, sugar, baking powder, and salt in bowl. Using your whisk, mix all the previous ingredients. Add whole eggs to mix. Gradually whisk milk into the mix. Add melted butter to the mix. In a separate bowl, using your whisk or mixer beat egg whites to  peaks until it forms into whip cream. Gradually work in the whip cream into the mix using a spatula. Pre-heat waffle iron to 410-430°F (210-220°C) and cook for 3-4 min. Remember to swivel your iron around for even distribution of batter."
+        }
+      ],
+      "tags":["Recipes", "Food", "Vaffles"],
+      "view":"small"
+    },
+    {
+      "id":"13",
+      "title":"Health Benefits of Oranges",
+      "bgImg":"/img/blog/02/bgImg.jpg",
+      "authorImg":"/img/blog/02/authorImg.jpg",
+      "authorName":"Sumaiya Elliott",
+      "date":[23,5,2023],
+      "topics":[
+        {
+          "topicTitle":"Health Benefits",
+          "topicText":"Oranges are a nutritional powerhouse, packed with vitamins and minerals. The most noteworthy of these is vitamin C, a water-soluble antioxidant that prevents cell damage. How does it work? Every cell in the body contains DNA, which is vulnerable to damage, or mutations, when exposed to free radicals. When DNA mutates, it can lead to the growth of cancerous cells. Vitamin C neutralizes free radicals and can prevent this mutation. "
+        },
+        {
+          "topicTitle":"Fiber",
+          "topicText":"The fiber in oranges can keep blood sugar levels in check and reduce high cholesterol to prevent cardiovascular disease."
+        },
+        {
+          "topicTitle":"Calcium",
+          "topicText":"Oranges contain approximately 55 milligrams of calcium, or 6% of your daily requirement. This nutrient is important for building strong bones and maintaining bone health. It's typically associated with dairy products like milk — but whole vegetables and fruits, like oranges, are also a good source."
+        },
+        {
+          "topicTitle":"Portion Sizes",
+          "topicText":"Oranges are high in potassium, so if you're on beta-blockers, eating too many can lead to kidney damage. If you have a condition called hemochromatosis and your body stores excess iron, too much vitamin C can increase iron levels and lead to tissue damage. If you prefer to drink your fruits, stick to one or two glasses of OJ a day. Juices are higher in sugar and lower in fiber. Excess sugar can lead to weight gain. "
+        }
+      ],
+      "tags":["Health", "Food", "Oranges"],
+      "view":"small"
+    }
+  ],
+  "footerLinks": [
+    {
+      "title": "Get in touch",
+      "links": [
+        {
+          "text": "About Us",
+          "path": "/about"
+        },
+        {
+          "text": "Careers",
+          "path": "/careers"
+        },
+        {
+          "text": "Blog",
+          "path": "/blog"
+        }
+      ]
+    },
+    {
+      "title": "Connections",
+      "links": [
+        {
+          "text": "Facebook",
+          "path": "https://facebook.com"
+        },
+        {
+          "text": "Twitter",
+          "path": "https://twitter.com"
+        },
+        {
+          "text": "Youtube",
+          "path": "https://www.youtube.com"
+        },
+        {
+          "text": "Instagram",
+          "path": "https://www.instagram.com"
+        },
+        {
+          "text": "LinkedIn",
+          "path": "https://www.linkedin.com/"
+        }
+      ]
+    },
+    {
+      "title": "Account",
+      "links": [
+        {
+          "text": "Your account",
+          "path": "/account"
+        },
+        {
+          "text": "Returns Centre",
+          "path": "/returns"
+        },
+        {
+          "text": "100 % purchase protection",
+          "path": "/protection"
+        },
+        {
+          "text": "Chat with us",
+          "path": "/chat"
+        },
+        {
+          "text": "Help",
+          "path": "/help"
+        }
+      ]
+    }
+  ]
+}
